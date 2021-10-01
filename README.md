@@ -6,4 +6,5 @@
 - 📫 You can contact me through Linkdin - https://www.linkedin.com/in/vijay-arora-821155177/
       Or through Email - vijay.ks.arora@gmail.com
 
+[![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijay-31)](https://github.com/vijay-31/github-readme-stats)
 
